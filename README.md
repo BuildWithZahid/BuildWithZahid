@@ -67,7 +67,7 @@ I love mentoring, solving complex problems, and delivering solutions that improv
 
 #### ⚡ DevOps & Tools  
 
-![AWS](https://shield-io-proxy-zahid-saeeds-projects.vercel.app//api/badge-generator?logo=javascript&text=My%20sql&badgeColor=FF9900&logoColor=ffffff&textColor=ffffff&replaceWithIcon=aws)
+![AWS](https://shield-io-proxy-zahid-saeeds-projects.vercel.app//api/badge-generator?logo=javascript&text=AWS&badgeColor=FF9900&logoColor=ffffff&textColor=ffffff&replaceWithIcon=aws)
 ![CI/CD](https://shield-io-proxy-zahid-saeeds-projects.vercel.app/api/badge-generator?logo=githubactions&text=CI%2FCD&badgeColor=2088FF&logoColor=FFFFFF)
 ![Git](https://shield-io-proxy-zahid-saeeds-projects.vercel.app/api/badge-generator?logo=git&text=Git&badgeColor=F05032&logoColor=FFFFFF)
 ![Docker](https://shield-io-proxy-zahid-saeeds-projects.vercel.app/api/badge-generator?logo=docker&text=Docker&badgeColor=2496ED&logoColor=FFFFFF)
