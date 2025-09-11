@@ -22,15 +22,6 @@ I love mentoring, solving complex problems, and delivering solutions that improv
 ![PHP](https://shield-io-proxy-zahid-saeeds-projects.vercel.app/api/badge-generator?logo=php&text=PHP&badgeColor=777BB4&logoColor=ffffff)
 ![Go](https://shield-io-proxy-zahid-saeeds-projects.vercel.app/api/badge-generator?logo=go&text=Go&badgeColor=00ADD8&logoColor=ffffff)
 
-<!--
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=FFFFFF)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=FFFFFF)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=FFFFFF)
--->
-
-
 #### 🎨 &nbsp;Frontend & State Management
 
 ![HTML5](https://shield-io-proxy-zahid-saeeds-projects.vercel.app/api/badge-generator?logo=html5&text=HTML%205&badgeColor=E34F26&logoColor=ffffff)
@@ -56,13 +47,15 @@ I love mentoring, solving complex problems, and delivering solutions that improv
 ![Laravel](https://shield-io-proxy-zahid-saeeds-projects.vercel.app/api/badge-generator?logo=laravel&text=Laravel&badgeColor=FF2D20&logoColor=ffffff)
 ![Spring Boot](https://shield-io-proxy-zahid-saeeds-projects.vercel.app/api/badge-generator?logo=springboot&text=Spring%20Boot&badgeColor=6DB33F&logoColor=ffffff)
 ![Django](https://shield-io-proxy-zahid-saeeds-projects.vercel.app/api/badge-generator?logo=django&text=Django&badgeColor=0C4B33&logoColor=ffffff)
+![GraphQL](https://shield-io-proxy-zahid-saeeds-projects.vercel.app/api/badge-generator?logo=graphql&text=GraphQL&badgeColor=E10098&logoColor=FFFFFF)
+![Apache Kafka](https://shield-io-proxy-zahid-saeeds-projects.vercel.app/api/badge-generator?logo=apachekafka&text=Apache%20Kafka&badgeColor=231F20&logoColor=FFFFFF)
+![Redis](https://shield-io-proxy-zahid-saeeds-projects.vercel.app/api/badge-generator?logo=redis&text=Redis&badgeColor=DC382D&logoColor=FFFFFF)
 
 #### 🗄️ &nbsp;Databases & Storage  
 
 ![MySQL](https://shield-io-proxy-zahid-saeeds-projects.vercel.app/api/badge-generator?logo=mysql&text=MySQL&badgeColor=4479A1&logoColor=FFFFFF)
 ![PostgreSQL](https://shield-io-proxy-zahid-saeeds-projects.vercel.app/api/badge-generator?logo=postgresql&text=PostgreSQL&badgeColor=4169E1&logoColor=FFFFFF)
-![Mongo DB](https://shield-io-proxy-zahid-saeeds-projects.vercel.app/api/badge-generator?logo=mongodb&text=Mongo%20DB&badgeColor=47A248&logoColor=FFFFFF)
-![Dynamo DB](https://shield-io-proxy-zahid-saeeds-projects.vercel.app/api/badge-generator?logo=amazondynamodb&text=Dynamo%20DB&badgeColor=4053D6&logoColor=FFFFFF)
+![Mongo DB](https://shield-io-proxy-zahid-saeeds-projects.vercel.app/api/badge-generator?logo=mongodb&text=MongoDB&badgeColor=47A248&logoColor=FFFFFF)
 ![Firebase/Firestore](https://shield-io-proxy-zahid-saeeds-projects.vercel.app/api/badge-generator?logo=firebase&text=Firebase%2FFirestore&badgeColor=FFCA28&logoColor=000000&textColor=000000)
 
 #### ⚡ DevOps & Tools  
@@ -71,9 +64,6 @@ I love mentoring, solving complex problems, and delivering solutions that improv
 ![CI/CD](https://shield-io-proxy-zahid-saeeds-projects.vercel.app/api/badge-generator?logo=githubactions&text=CI%2FCD&badgeColor=2088FF&logoColor=FFFFFF)
 ![Git](https://shield-io-proxy-zahid-saeeds-projects.vercel.app/api/badge-generator?logo=git&text=Git&badgeColor=F05032&logoColor=FFFFFF)
 ![Docker](https://shield-io-proxy-zahid-saeeds-projects.vercel.app/api/badge-generator?logo=docker&text=Docker&badgeColor=2496ED&logoColor=FFFFFF)
-![GraphQL](https://shield-io-proxy-zahid-saeeds-projects.vercel.app/api/badge-generator?logo=graphql&text=GraphQL&badgeColor=E10098&logoColor=FFFFFF)
-![Apache Kafka](https://shield-io-proxy-zahid-saeeds-projects.vercel.app/api/badge-generator?logo=apachekafka&text=Apache%20Kafka&badgeColor=231F20&logoColor=FFFFFF)
-![Redis](https://shield-io-proxy-zahid-saeeds-projects.vercel.app/api/badge-generator?logo=redis&text=Redis&badgeColor=DC382D&logoColor=FFFFFF)
  
 <!--
 Colored icons
