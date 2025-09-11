@@ -24,7 +24,7 @@ I love mentoring, solving complex problems, and delivering solutions that improv
 
 #### 🎨 &nbsp;Frontend & State Management
 
-![HTML5](https://shield-io-proxy-zahid-saeeds-projects.vercel.app/api/badge-generator?logo=html5&text=HTML%205&badgeColor=E34F26&logoColor=ffffff)
+![HTML5](https://shield-io-proxy-zahid-saeeds-projects.vercel.app/api/badge-generator?logo=html5&text=HTML5&badgeColor=E34F26&logoColor=ffffff)
 ![CSS3](https://shield-io-proxy-zahid-saeeds-projects.vercel.app/api/badge-generator?logo=css&text=CSS3&badgeColor=1572B6&logoColor=ffffff)
 ![Bootstrap](https://shield-io-proxy-zahid-saeeds-projects.vercel.app/api/badge-generator?logo=bootstrap&text=Bootstrap&badgeColor=7952B3&logoColor=ffffff)
 ![TailwindCSS](https://shield-io-proxy-zahid-saeeds-projects.vercel.app/api/badge-generator?logo=tailwindcss&text=TailwindCSS&badgeColor=06B6D4&logoColor=ffffff)
