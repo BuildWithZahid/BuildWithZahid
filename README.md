@@ -1,4 +1,3 @@
-
 # Hi, I'm Zahid Saeed <img src="https://raw.githubusercontent.com/BuildWithZahid/BuildWithZahid/be8cfb1099825b8633877a8d2408560e33e52482/wave.gif" alt="Wave" height="25" />
 
 ### **Senior Software Engineer | Architect of Scalable Systems**
@@ -11,13 +10,13 @@ I'm a seasoned Senior Software Engineer with **10+ years** of experience in desi
 
 🔭 I'm currently crafting software at [PepBoys](https://www.pepboys.com/).
 
-👯 I'm actively seeking to collaborate on **commercial projects** that require expertise in scalable architecture.
+👯 I'm actively seeking to collaborate on **commercial projects** that require expertise in scalable architecture and full-stack development.
 
 🤔 I'm looking to connect with future co-founders and early team members for a tech startup.
 
 💬 Let's connect! Feel free to ask me anything about full-stack development or software architecture.
 
-⚡ When I'm not coding, you'll find me playing video games or learning new technologies.
+⚡ When I'm not coding, you'll find me playing video games, learning new technologies, or planning to do shopping.
 
 ---
 
@@ -73,30 +72,22 @@ I'm a seasoned Senior Software Engineer with **10+ years** of experience in desi
 ![CI/CD](https://shield-io-proxy-zahid-saeeds-projects.vercel.app/api/badge-generator?logo=githubactions&text=CI%2FCD&badgeColor=2088FF&logoColor=FFFFFF)
 ![Git](https://shield-io-proxy-zahid-saeeds-projects.vercel.app/api/badge-generator?logo=git&text=Git&badgeColor=F05032&logoColor=FFFFFF)
 ![Docker](https://shield-io-proxy-zahid-saeeds-projects.vercel.app/api/badge-generator?logo=docker&text=Docker&badgeColor=2496ED&logoColor=FFFFFF)
- 
-<!--
-Colored icons
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=FFFFFF)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=1e1e1e)
-![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=plastic&logo=vuedotjs&logoColor=35495E)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt&logoColor=FFFFFF)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=FFFFFF)
--->
 
+---
 
+### 🚀 &nbsp;Featured Projects
 
-<!--
-**BuildWithZahid/BuildWithZahid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **[Unifonic](https://unifonic.com)** – Built a customer engagement platform that helps businesses manage customer interactions efficiently.  
+  **Technologies:** Angular, TypeScript, Java, Spring Boot, AWS, Kafka, Redis, PostgreSQL
 
-Here are some ideas to get you started:
+- **[Reverse Ads](https://reverseads.com)** – Developed a digital advertising platform for campaign optimization and data clarity.  
+  **Technologies:** Next.js, React.js, TypeScript, Redis, Laravel, MySQL  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Cluetivity](https://www.cluetivity.com)** – Created an AR gaming platform combining augmented reality with escape-room puzzles.  
+  **Technologies:** Angular, TypeScript, Firebase, Google Cloud Functions  
+
+---
+
+### 📊 &nbsp; My Contributions
+
+<img src="https://github-readme-activity-graph.vercel.app/graph/?username=BuildWithZahid&bg_color=1A202C&color=9DA5B4&line=4A90E2&point=E5E9F0&hide_border=true&custom_title=Recent%20Contributions" />
