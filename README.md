@@ -1,14 +1,23 @@
-## Hi, I'm Zahid Saeed   <img src="https://raw.githubusercontent.com/BuildWithZahid/BuildWithZahid/be8cfb1099825b8633877a8d2408560e33e52482/wave.gif" alt="Wave" height="25" />
 
+# Hi, I'm Zahid Saeed <img src="https://raw.githubusercontent.com/BuildWithZahid/BuildWithZahid/be8cfb1099825b8633877a8d2408560e33e52482/wave.gif" alt="Wave" height="25" />
 
-**Senior Software Engineer | Architect of Scalable Systems | Lifelong Learner**
+### **Senior Software Engineer | Architect of Scalable Systems**
+
+I'm a seasoned Senior Software Engineer with **10+ years** of experience in designing, building, and scaling complex software. I thrive on solving difficult problems and leading teams to deliver high-performance, revenue-driving solutions. My core expertise lies in **full-stack development**, **AWS cloud architecture**, and **microservices**.
 
 ---
 
-### 👨‍💻 About Me
-I’m a Senior Software Engineer with 10+ years of experience designing scalable systems and leading engineering teams. My expertise is in full-stack development, AWS cloud architecture, and microservices.
+### What I'm Up To
 
-I love mentoring, solving complex problems, and delivering solutions that improve performance and impact revenue. I enjoy exploring new technologies and finding innovative ways to solve real-world problems.
+🔭 I'm currently crafting software at [PepBoys](https://www.pepboys.com/).
+
+👯 I'm actively seeking to collaborate on **commercial projects** that require expertise in scalable architecture.
+
+🤔 I'm looking to connect with future co-founders and early team members for a tech startup.
+
+💬 Let's connect! Feel free to ask me anything about full-stack development or software architecture.
+
+⚡ When I'm not coding, you'll find me playing video games or learning new technologies.
 
 ---
 
