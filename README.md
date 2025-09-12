@@ -10,11 +10,9 @@ I'm a seasoned Senior Software Engineer with **10+ years** of experience in desi
 
 🔭 I'm currently crafting software at [PepBoys](https://www.pepboys.com/).
 
-👯 I'm actively seeking to collaborate on **commercial projects** that require expertise in scalable architecture and full-stack development.
+🤝 I'm actively looking to collaborate on **commercial projects** and connect with future co-founders for a tech startup.
 
-🤔 I'm looking to connect with future co-founders and early team members for a tech startup.
-
-💬 Let's connect! Feel free to ask me anything about full-stack development or software architecture.
+💬 Feel free to ask me anything about full-stack development or software architecture.
 
 ⚡ When I'm not coding, you'll find me playing video games, learning new technologies, or planning to do shopping.
 
@@ -88,6 +86,16 @@ I'm a seasoned Senior Software Engineer with **10+ years** of experience in desi
 
 ---
 
-### 📊 &nbsp; My Contributions
+### 📊 &nbsp; My Github Stats
 
 <img src="https://github-readme-activity-graph.vercel.app/graph/?username=BuildWithZahid&bg_color=1A202C&color=9DA5B4&line=4A90E2&point=E5E9F0&hide_border=true&custom_title=Recent%20Contributions" />
+
+---
+
+### 🔗 &nbsp; Let's Connect
+
+I'm always open to new opportunities and collaborations. Feel free to reach out!
+
+[![LinkedIn](https://shield-io-proxy-zahid-saeeds-projects.vercel.app/api/badge-generator?logo=javascript&text=Linkedin&badgeColor=0A66C2&logoColor=ffffff&textColor=ffffff&replaceWithIcon=linkedin)](https://www.linkedin.com/in/zahidsaeed7/)
+[![Email](https://shield-io-proxy-zahid-saeeds-projects.vercel.app/api/badge-generator?logo=gmail&text=Email&badgeColor=EA4335&logoColor=ffffff&textColor=ffffff)](mailto:contact@zahidsaeed.com)
+[![Freelancer](https://shield-io-proxy-zahid-saeeds-projects.vercel.app/api/badge-generator?logo=freelancer&text=Freelancer&badgeColor=29B2FE&logoColor=000000&textColor=000000)](https://www.freelancer.com/u/zahidsaeed96)
